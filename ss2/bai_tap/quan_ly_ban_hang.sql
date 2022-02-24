@@ -1,11 +1,7 @@
 
 create database Quan_Ly_Ban_Hang;
 use  Quan_Ly_Ban_Hang;
-create table customer(
-id_cus int primary key,
-name_cus varchar(45),
-age_cus varchar(45)
-);
+
 
 
 create table `order`(
@@ -16,6 +12,11 @@ date_or date,
 total_price_or double
 );
 
+create table customer(
+id_cus int primary key,
+name_cus varchar(45),
+age_cus varchar(45)
+);
 
 create table product(
 id_pro int primary key,
@@ -24,7 +25,7 @@ price_pro double
 );
 
 create table `orderdetail`(
-id_or int,
+id_or int ,
 id_pro int,
 qty_odd int,
 primary key(id_or,id_pro),
