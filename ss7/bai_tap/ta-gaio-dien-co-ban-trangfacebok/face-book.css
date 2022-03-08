@@ -34,8 +34,9 @@ body{
     min-height: 400px;
     border: 1px solid #CDCDCD;
     float:left;
-    background-color: ;
+    background-color: white;
     margin-bottom: 5px;
+    padding-bottom: 25px ;
 }
 
 #content{
@@ -54,6 +55,7 @@ body{
     border: 1px solid #CDCDCD;
     float:right;
     margin-bottom: 5px;
+
 }
 
 #footer{
