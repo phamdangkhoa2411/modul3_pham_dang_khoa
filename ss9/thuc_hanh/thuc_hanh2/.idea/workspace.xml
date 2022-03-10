@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee5f1b36-5ab9-4243-a20e-6d7ff1705e04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../thuc_hanh1/src/main/java/ServerTimeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuc_hanh3/src/main/java/TranslationServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss10/thuc_hanh/thuc_hanh1/src/main/webapp/converter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss10/thuc_hanh/thuc_hanh2/src/main/webapp/dictionary.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_tap/Product_Discount_Calculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_tap/Product_Discount_Calculator/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thuc_hanh1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thuc_hanh4" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -145,6 +145,7 @@
       <updated>1646804347952</updated>
       <workItem from="1646804349202" duration="1978000" />
       <workItem from="1646815140538" duration="437000" />
+      <workItem from="1646897913228" duration="16000" />
     </task>
     <servers />
   </component>
