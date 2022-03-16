@@ -24,7 +24,7 @@
         <th>Country</th>
 
     </tr>
-<c:forEach items="${users}" var="user">
+<c:forEach items="${searchCountry}" var="user">
     <tr>
         <td>${user.getName()}</td>
         <td>${user.getEmail()}</td>

@@ -16,6 +16,7 @@ public interface IUserDAO {
 
     public boolean updateUser(User user) throws SQLException;
 
-    List<User> searchUser();
+    List<User> searchUser(String nameSearch);
+
 
 }

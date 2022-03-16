@@ -128,19 +128,22 @@ public class UserDAO implements IUserDAO {
     }
 
     @Override
-    public List<User> searchUser() {
+    public List<User> searchUser(String nameSearch) {
         List<User> users =new ArrayList<>();
 
         try ( Connection connection = getConnection();
             PreparedStatement preparedStatement = connection.prepareStatement(SEARCH_BY_COUNTRY);) {
-        System.out.println(preparedStatement);
+        preparedStatement.setString(1,nameSearch);
         ResultSet resultSet = preparedStatement.executeQuery();
+
         while (resultSet.next()){
-            int id = resultSet.getInt("id");
-            String name = resultSet.getString("name");
-            String email = resultSet.getString("email");
-            String country = resultSet.getString("country");
-            users.add(new User(id, name, email, country));
+
+            User user= new User();
+            user.setId(resultSet.getInt("id"));
+            user.setName(resultSet.getString("name"));
+           user.setEmail( resultSet.getString("email"));
+            user.setCountry( resultSet.getString("country"));
+            users.add(user);
         }
         } catch (SQLException e) {
             printSQLException(e);

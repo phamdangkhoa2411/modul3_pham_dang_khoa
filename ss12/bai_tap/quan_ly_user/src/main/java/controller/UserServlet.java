@@ -104,8 +104,9 @@ public class UserServlet extends HttpServlet {
 
     private void searchUser(HttpServletRequest request, HttpServletResponse response)
      throws SQLException, IOException, ServletException  {
-        List<User> users = userDAO.searchUser();
-         request.setAttribute("searchName",users);
+        String name = request.getParameter("searchName");
+        List<User> users = userDAO.searchUser(name);
+         request.setAttribute("searchCountry",users);
         RequestDispatcher dispatcher = request.getRequestDispatcher("search.jsp");
         dispatcher.forward(request,response);
     }
