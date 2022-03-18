@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58ece2ad-718b-4800-befd-d9d539477c3a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/build/classes/java/main/repository/impl/StudentRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/build/classes/java/main/repository/impl/StudentRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/build/classes/java/main/service/impl/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/build/classes/java/main/service/impl/StudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/build/libs/demo-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/build/libs/demo-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/src/main/java/repository/impl/BaseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/src/main/java/repository/impl/BaseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/src/main/java/repository/impl/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/src/main/java/repository/impl/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTVN/demo/src/main/java/service/impl/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BTVN/demo/src/main/java/service/impl/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/build/classes/java/main/Controller/ProductServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/build/classes/java/main/Controller/ProductServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/build/libs/ung_dung_quan_li_san_pham-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/build/libs/ung_dung_quan_li_san_pham-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/src/main/java/Controller/ProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_MVC_Model/exersice/ung_dung_quan_li_san_pham/src/main/java/Controller/ProductServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_MVC_Model/practice/quan_ly_khach_hang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss11_MVC_Model/practice/quan_ly_khach_hang/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/exercise/demoaudit/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/build/classes/java/main/Controller/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/build/classes/java/main/Controller/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/build/classes/java/main/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/build/classes/java/main/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/build/libs/JSP_Servlet_JDBC_MySQL-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/build/libs/JSP_Servlet_JDBC_MySQL-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss12_JDBC_CRUD/practice/JSP_Servlet_JDBC_MySQL/src/main/java/dao/UserDAO.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="255f7IWCbXzrKtU2JUqHx71gwZT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.57" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.57" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : org.example : JSP_Servlet_JDBC_MySQL-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="d9f1f3d0-b5a9-4f3e-9d5c-f57500c3476d" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52991" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : org.example : JSP_Servlet_JDBC_MySQL-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58ece2ad-718b-4800-befd-d9d539477c3a" name="Changes" comment="" />
+      <created>1644821702056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644821702056</updated>
+      <workItem from="1644821703627" duration="4616000" />
+      <workItem from="1644826670869" duration="725000" />
+      <workItem from="1644849062166" duration="3854000" />
+      <workItem from="1644888939792" duration="735000" />
+      <workItem from="1644892371691" duration="197000" />
+      <workItem from="1644892695354" duration="1899000" />
+      <workItem from="1644896811088" duration="8000" />
+      <workItem from="1644896862652" duration="653000" />
+      <workItem from="1644939401987" duration="565000" />
+      <workItem from="1644940900290" duration="69000" />
+      <workItem from="1644976600985" duration="16000" />
+      <workItem from="1644985612069" duration="991000" />
+      <workItem from="1644992872942" duration="2179000" />
+      <workItem from="1644999430032" duration="659000" />
+      <workItem from="1645003428258" duration="637000" />
+      <workItem from="1645022402187" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
